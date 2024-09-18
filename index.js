@@ -8,6 +8,6 @@ console.log("Ice cream")
 // Stage and commit this change with an appropriate message
 // Task 3
 // Print your favorite artist
-
+console.log("I dont have one")
 // Stage and commit this change with an appropriate message
 // Go to more.js
